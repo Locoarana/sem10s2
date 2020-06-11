@@ -1,0 +1,57 @@
+Digraph G {
+34->3
+3->1
+null0 [shape=point]
+1->null0
+null1 [shape=point]
+1->null1
+3->23
+23->4
+null2 [shape=point]
+4->null2
+4->20
+20->14
+14->12
+12->8
+null3 [shape=point]
+8->null3
+null4 [shape=point]
+8->null4
+null5 [shape=point]
+12->null5
+14->15
+null6 [shape=point]
+15->null6
+null7 [shape=point]
+15->null7
+null8 [shape=point]
+20->null8
+23->26
+null9 [shape=point]
+26->null9
+null10 [shape=point]
+26->null10
+34->67
+67->43
+null11 [shape=point]
+43->null11
+43->54
+null12 [shape=point]
+54->null12
+54->62
+null13 [shape=point]
+62->null13
+null14 [shape=point]
+62->null14
+67->69
+null15 [shape=point]
+69->null15
+69->79
+null16 [shape=point]
+79->null16
+79->99
+null17 [shape=point]
+99->null17
+null18 [shape=point]
+99->null18
+}
